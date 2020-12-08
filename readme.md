@@ -91,6 +91,7 @@
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
+			<input />
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
 				<p>Click to see the source</p>
