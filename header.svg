@@ -86,7 +86,16 @@
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
-			<input />
+			<input id="test" />
+
+			<div id="box">
+				test
+			</div>
+
+			<script>
+				window.test.value = "abc";
+				window.box.style.background = "red";
+			</script>
 
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
